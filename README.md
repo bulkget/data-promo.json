@@ -1,0 +1,2 @@
+# data-promo.json
+Adapk
